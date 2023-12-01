@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admn\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admn\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_drift.639346497.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Admn\Desktop\GameMake2\drift" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="ControllerTypes" t="Include">
+            <e p="BtnCarController.cs" t="Include" />
+            <e p="TouchpadController.cs" t="Include" />
+          </e>
+          <e p="Houses" t="Include">
+            <e p="HouseController.cs" t="Include" />
+            <e p="Houses.cs" t="Include" />
+          </e>
+          <e p="LetScript" t="Include">
+            <e p="dinamic" t="Include">
+              <e p="BotsController.cs" t="Include" />
+              <e p="BusTypeBot.cs" t="Include" />
+              <e p="FullBusStopController.cs" t="Include" />
+              <e p="PickupTypeBots.cs" t="Include" />
+              <e p="SedanTypeBot.cs" t="Include" />
+              <e p="TurnController.cs" t="Include" />
+              <e p="TurnToBusStopController.cs" t="Include" />
+              <e p="TurnToClosedLet.cs" t="Include" />
+              <e p="TurnToLetController.cs" t="Include" />
+              <e p="TurnToStopController.cs" t="Include" />
+            </e>
+            <e p="static" t="Include">
+              <e p="CrushTruckController.cs" t="Include" />
+              <e p="DeadCarController.cs" t="Include" />
+              <e p="DeadCarFrontSens.cs" t="Include" />
+              <e p="IsCrashCheck.cs" t="Include" />
+              <e p="LampPostController.cs" t="Include" />
+              <e p="LetPartController.cs" t="Include" />
+              <e p="LetSpawnController.cs" t="Include" />
+              <e p="OldLetSpawnController.cs" t="Include" />
+              <e p="RWCarController.cs" t="Include" />
+              <e p="StopWellController.cs" t="Include" />
+              <e p="T90LetController.cs" t="Include" />
+            </e>
+          </e>
+          <e p="PlayerScripts" t="Include">
+            <e p="ChooseModelStat.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="PlayerLightController.cs" t="Include" />
+            <e p="TrialScript.cs" t="Include" />
+          </e>
+          <e p="RoadScripts" t="Include">
+            <e p="OldRoadController.cs" t="Include" />
+            <e p="RoadController.cs" t="Include" />
+            <e p="RoadPartController.cs" t="Include" />
+            <e p="RoadStartController.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="FpsCounter.cs" t="Include" />
+            <e p="MainUiController.cs" t="Include" />
+          </e>
+          <e p="VisualScripts" t="Include">
+            <e p="DayCyclyController.cs" t="Include" />
+            <e p="DayOrNightController.cs" t="Include" />
+            <e p="LampIntencytyController.cs" t="Include" />
+            <e p="LetLampIntencity.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="drift.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

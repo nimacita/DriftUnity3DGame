@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - road
+  - touchpad
+  - back_wheel
+  - l_front_wheel
+  - r_front_wheel
+  - trial
+  - BtnController
+  - r_disk
+  - l_disk
+  - let
+  - body_incline
+  - l_disk_back
+  - r_disk_back
+  - dynamic_let_first
+  - lamp_let
+  - road_for_player
+  - road_for_bots
+  - bus_stop_enter
+  - full_stop_bus
+  - don
+  - house
+  - sphere_trig
+  - photo_cam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - smoke
+  - Trial
+  - House
+  - Weather
+  - Sphere_trigger
+  - Player
+  - Road
+  - StaticLet
+  - Bots
+  - Camera
+  - Sensors
+  - PhotoSens
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: smoke
+    uniqueID: 3053070269
+    locked: 0
+  - name: Trial
+    uniqueID: 2581373829
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
